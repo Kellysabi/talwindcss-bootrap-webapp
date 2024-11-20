@@ -11,7 +11,7 @@ This landing page introduces a fictional product or service, showcasing its feat
 - Footer: Styled using Tailwind CSS.
 
 ## Viewing the Project
-1. Open the live link: [Insert Live URL].
+1. Open the live link: https://sabiservices.vercel.app.
 2. To edit, clone the repository and modify the respective files.
 
 ## Hosting
